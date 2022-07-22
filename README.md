@@ -1,2 +1,3 @@
 # Artificial_Intelligence
-Templates for AI-based software
+
+Find in this repository templates for AI-based medical device software. Feel free to contact us, if you have any questions!
